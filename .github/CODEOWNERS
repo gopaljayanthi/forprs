@@ -1,0 +1,15 @@
+# This is a comment.
+# Each line is a file pattern followed by one or more GitHub usernames or teams
+
+# The following applies to all files in the repo
+* @gopaljayanthi
+#*       @username1 @team1
+
+# The following applies to the /src/ directory
+#/src/   @username2 @team2
+
+# The following applies to files with the .md extension
+#*.md    @username3
+
+# Specific file
+#README.md @username4
